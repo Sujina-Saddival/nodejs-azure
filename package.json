@@ -1,0 +1,35 @@
+{
+  "name": "edgeplayer-api",
+  "version": "1.0.0",
+  "description": "edgeplayer-api",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://edgeplayer@dev.azure.com/edgeplayer/edgeplayer-poc/_git/edgeplayer-api"
+  },
+  "author": "cooler-screen",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "express-jwt": "^5.3.1",
+    "express-validator": "^5.3.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.4.20",
+    "nodemon": "^1.18.10",
+    "swagger-jsdoc": "^3.2.8",
+    "swagger-ui-express": "^4.0.2",
+    "yamljs": "^0.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
