@@ -1,11 +1,13 @@
 # NODEJS APP
 
 API application created with nodejs, express framework.
+```
 Nodejs
 Express
 MongoDB(CosmosDB)
 Swagger
 JWT
+```
 
 ## Running locally
 
